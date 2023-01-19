@@ -1,1 +1,1 @@
-web gunicorn miBodeguitaMgmt.wsgi:application --log-file -
+web gunicorn miBodeguitaMgmt.wsgi
